@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80c270f7-40d2-4393-a7ab-de2509e8c7e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/.idea/尚惠.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/AD/ad-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/AD/ad-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/need/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/skins/dahong/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/skins/dahong/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/skins/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/skins/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/skins/molv/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/Plugins/laydate/skins/molv/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/jquery-labelauty.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/supplie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/css/user_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/01_mid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/01_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/02_mid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/02_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/03_mid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/03_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/04_mid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/04_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/AD_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/AD_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/AD_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/Account-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/Complex_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/MbrAtHLGP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/NTngAG7pl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/NTo2Wh8TF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/Search_img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/Service3-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/TB27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bg_Filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bk_img_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bk_img_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bk_img_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/bk_img_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/close2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/commentstar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/d_toux_img_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/fo-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/h1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/h2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/h3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/h4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/h5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/help_m_jia.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/homecart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/homecart_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/icon-copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-liuyan-alt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-shoucang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-shoucang2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-xingxingkong.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-xingxingkong_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-xingxingman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/iconfont-xingxingman_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/indexhead_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/input-checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/l-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/l_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/l_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/login-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/m_i_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/m_i_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/m_i_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/m_i_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/muen_bg_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/new-pro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/p_032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/people.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/pro-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/pro_V2_r17_c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/provider/chacha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/provider/iconfont-jia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/provider/jia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/provider/jian.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/qd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/search.ele.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/settleup-nogoods.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/shop_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/slider-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/user_img_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/user_img_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/user_img_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/user_img_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/user_img_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/user_img_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/zfb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/zhifu1_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/zhifu1_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/images/zhifu1_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/common_js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/icheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/jquery-1.8.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/jquery-2.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/jquery-labelauty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/jquery.SuperSlide.2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/jquery.imagezoom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/jquery.simpleGal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/js/lrtk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/extend/layer.ext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/layer/skin/layer.ext.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/cp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1089.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1145.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1252.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1270.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1309.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1396.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/156.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/1663.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/199.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/339.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/6116.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/618.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/644.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/690.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/740.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/741.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/logo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/logo/logo2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_52.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_53.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_55.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_58.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_65.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_67.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_68.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/products/p_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/skins/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/skins/flat/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/skins/flat/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/statics/skins/flat/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/产品-产品列表(预售).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/产品-产品列表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/产品-产品详情(预售).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/产品-产品详情.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/公共产品库.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/分销管理-提现账单.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/半小时圈主页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/发布公告.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/发货管理-运费模板.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/发货管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/商品专区-发布商品.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/商品专区-评价管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/商品专区.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/店铺专区.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/店铺专区（添加店铺）.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/店铺公司资质.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/店铺公告.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/店铺首页.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/我的分销.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/我的报表.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/找回密码.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/收款账号.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/消息中心.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-产品预订.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-分销详细.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-我的收藏.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-我的订单.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-收货地址.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-消费记录.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-用户信息.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心-账户管理.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/用户中心.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuihtml/templates/订单专区.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/scripts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/docs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/logs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/logs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/scripts/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/libs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/apps/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/libs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/settings/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/docs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/settings/put.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/put.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hermit/WeiXinWeb/shanghuishop/shanghuishop/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/wsgi.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#646#678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/admin.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/dev.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="160" selection-start-line="160" selection-end-line="163" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/put.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hermit/WeiXinWeb" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/shanghuishop/manage.py" />
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/shanghuishop/shanghuishop/urls.py" />
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/shanghuishop/shanghuishop/wsgi.py" />
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/shanghuishop/shanghuishop/settings/dev.py" />
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/shanghuishop/shanghuishop/settings/put.py" />
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/hermit/hermit/settings/dev.py" />
+        <option value="$PROJECT_DIR$/微信web端/WeiXinWeb/hermit/hermit/apps/users/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/hermit_.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="518" />
+    <option name="height" value="409" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="WeiXinWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="WeiXinWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="WeiXinWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="WeiXinWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="WeiXinWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hermit_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hermit_" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="WeiXinWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="hermit" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c270f7-40d2-4393-a7ab-de2509e8c7e2" name="Default Changelist" comment="" />
+      <created>1560163364878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560163364878</updated>
+      <workItem from="1560163368714" duration="1492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1492000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939856" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#646#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="160" selection-start-line="160" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/apps/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hermit/WeiXinWeb/hermit/hermit/settings/put.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="72" column="20" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
