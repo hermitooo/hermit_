@@ -40,10 +40,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'user.apps.UserConfig',
-    'rest_framework'
+    'rest_framework',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.Corsmiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -53,7 +55,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+
 ROOT_URLCONF = 'webbacksoftware.urls'
+
 
 TEMPLATES = [
     {
@@ -106,6 +110,8 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+
+
 CACHES={
     "default":{
         "BACKEND":"django_redis.cache.RedisCache",
@@ -129,6 +135,15 @@ CACHES={
         }
     }
 }
+
+CORS_ORIGIN_WHITELIST=(
+    'http://127.0.0.1:8080'
+)
+# 正则配置:
+# CORS_ORIGIN_REGEX_WHITELIST =(r'^(https?://)?（\w+\.)?jim\.com $',)
+# 或者直接允许所有主机跨域
+CORS_ORIGIN_ALLOW_ALL = True
+
 SESSION_ENGINE="django.contrib.sessions.backends.cache"
 SESSION_CACHE_ALIAS="session"
 
